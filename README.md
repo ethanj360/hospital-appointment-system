@@ -61,9 +61,15 @@ Each use case includes defined actors, triggers, preconditions, postconditions, 
 - Context-level diagram showing system boundaries  
 - Level 0 and Level 1 diagrams detailing reservation, customer, and reporting processes  
 
+![Context DFD](dfd-context.png)
+![Level 0 DFD](dfd-level-0.png)
+
 **Entity Relationship Diagram (ERD)**  
 - Models relationships between customers, reservations, conference rooms, and related entities  
 - Defines primary and foreign key relationships for structured data storage  
+
+![ERD](hotel-reservation-erd.png)
+  
 
 ---
 
@@ -97,14 +103,8 @@ The system aligns with existing hotel workflows and includes management involvem
 - Requirements Definition Document  
 - Use Case Specifications  
 - Data Flow Diagrams (DFDs)
-      - ![Context DFD](dfd-context.png)
-      - ![Level 0 DFD](dfd-level-0.png)
-
 - Entity Relationship Diagram (ERD)
-      - ![ERD](hotel-reservation-erd.png)
-  
 - User Interface Mockups  
-      - ![Reservation Screen](ui-reservation-example.png)
   
 ---
 
