@@ -71,7 +71,7 @@ Each use case includes defined actors, triggers, preconditions, postconditions, 
 - Models relationships between customers, reservations, conference rooms, and related entities  
 - Defines primary and foreign key relationships for structured data storage  
 
-![ERD](DFDs/hotel-reservation-erd.png)
+![ERD](hotel-reservation-erd.png)
   
 
 ---
